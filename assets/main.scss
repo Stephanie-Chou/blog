@@ -16,7 +16,7 @@ main.page-content {
   width: 100%;
   display: flex;
   justify-content: center;
-  height: 75%;
+  margin-bottom: 50px;
 }
 
 main.page-content .wrapper {
@@ -158,6 +158,9 @@ main.page-content .wrapper {
   background-position: center;
 }
 
+.page-heading {
+    font-family: 'Copse', serif;
+}
 
 // POST STYLES
 
@@ -191,4 +194,68 @@ main.page-content .wrapper {
   .post-image {
     height: 18rem;
   }
+}
+
+// LOGO
+
+.logo {
+  position: relative;
+  display: flex;
+  justify-content: center;
+  width: 100px;
+  height: 100px;
+  cursor: pointer;
+
+}
+
+.logo:hover {
+  cursor: pointer;
+  opacity: .7;
+}
+
+.circle {
+  display:inline-block;
+  border-radius: 50%;
+  height: 1em;
+  width: 1em;
+  background-color: #3e337d;
+  border: 2px solid white;
+  animation-iteration-count: infinite;
+  position: absolute;
+}
+
+.circle.purple {
+  background-color: #4155b4;
+  height: 4em;
+  width: 4em;
+  -webkit-animation-delay: .25s; /* Safari 4.0 - 8.0 */
+  animation-delay: .25s;
+}
+
+.circle.green {
+  background-color: #4ABDAC;
+  height: 1.5em;
+  width: 1.5em;
+  -webkit-animation-delay: .75s; /* Safari 4.0 - 8.0 */
+  animation-delay: .75s;
+  /*transform: translate(40px, -5px);*/
+  left: 53px;
+  top: -5px;
+}
+
+.circle.red {
+  background-color: #FC4A14;
+  -webkit-animation-delay: .5s; /* Safari 4.0 - 8.0 */
+  animation-delay: .5s;
+  /*transform: translate(30px, 55px);*/
+  top: 55px;
+}
+
+.circle.yellow {
+  background-color: #F7B733;
+  height: 3em;
+  width: 3em;
+  /*transform: translate(-5px, 30px);*/
+  top: 35px;
+  left: -5px;
 }

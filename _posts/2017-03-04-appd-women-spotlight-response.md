@@ -4,7 +4,7 @@ title:  "Women 'in Tech'"
 date:   2017-03-04
 ---
 
-This is in response to the first 2 paragraphs of a [blogpost](https://medium.com/r/?url=https%3A%2F%2Fblog.appdynamics.com%2Fculture%2Fspotlight-women-of-appdynamics-4%2F%3Futm_source%3Dlinkedin%26utm_medium%3Dsocial%26utm_campaign%3Dwit%2520blog%26utm_content%3Dwit%2520blog%26utm_term%3Dlinkedin%2520wit%2520blog%26utm_budget%3Ddigital) by AppDynamics.
+This is in response to the first 2 paragraphs of a [blogpost](https://medium.com/r/?url=https%3A%2F%2Fblog.appdynamics.com%2Fculture%2Fspotlight-women-of-appdynamics-4%2F%3Futm_source%3Dlinkedin%26utm_medium%3Dsocial%26utm_campaign%3Dwit%2520blog%26utm_content%3Dwit%2520blog%26utm_term%3Dlinkedin%2520wit%2520blog%26utm_budget%3Ddigital){:target="_blank"} by AppDynamics.
 
 --------
 
@@ -21,8 +21,8 @@ I love that you have increased your numbers overall. We need more women in the w
 
 Also, I would love to share some of the reading I found about how people define women in tech. It’s an interesting discussion.
 
-[we need more women in tech](https://www.theatlantic.com/technology/archive/2013/10/we-need-more-women-in-tech-the-data-prove-it/280964/)
+[We need more women in tech](https://www.theatlantic.com/technology/archive/2013/10/we-need-more-women-in-tech-the-data-prove-it/280964/){:target="_blank"}
 
-[stop equating women in tech with engineers](https://medium.com/thelist/stop-equating-women-in-tech-with-engineers-e928e9fa1db5#.h35bk1opt)
+[Stop equating women in tech with engineers](https://medium.com/thelist/stop-equating-women-in-tech-with-engineers-e928e9fa1db5#.h35bk1opt){:target="_blank"}
 
-[what does it mean to be a woman in technology lets think bigger](http://www.socialmediatoday.com/content/what-does-it-mean-be-woman-technology-lets-think-bigger)
+[What does it mean to be a woman in technology lets think bigger](http://www.socialmediatoday.com/content/what-does-it-mean-be-woman-technology-lets-think-bigger){:target="_blank"}

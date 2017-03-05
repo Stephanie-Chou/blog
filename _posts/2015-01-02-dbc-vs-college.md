@@ -4,7 +4,7 @@ title:  "Dev Bootcamp vs Traditional College"
 date:   2015-01-02
 ---
 
-There have been a lot of [articles](http://www.npr.org/sections/ed/2014/12/20/370954988/twelve-weeks-to-a-six-figure-job?utm_source=facebook.com&utm_medium=social&utm_campaign=npr&utm_term=nprnews&utm_content=2047) and [opinions](https://zedshaw.com/2014/10/19/the-coming-code-bootcamp-destruction/) recently about Dev Bootcamps and Computer Science Degrees. As a graduate of Dev Bootcamp as well as university with an engineering degree, I will throw in my own two cents.
+There have been a lot of [articles](http://www.npr.org/sections/ed/2014/12/20/370954988/twelve-weeks-to-a-six-figure-job?utm_source=facebook.com&utm_medium=social&utm_campaign=npr&utm_term=nprnews&utm_content=2047){:target="_blank"} and [opinions](https://zedshaw.com/2014/10/19/the-coming-code-bootcamp-destruction/){:target="_blank"} recently about Dev Bootcamps and Computer Science Degrees. As a graduate of Dev Bootcamp as well as university with an engineering degree, I will throw in my own two cents.
 
 ### Theory vs Practice
 

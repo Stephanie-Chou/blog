@@ -4,27 +4,14 @@ layout: default
 
 <div class="home">
 
-  <h3 class="page-heading"></h3>
+  <h1 class="page-heading">Blog</h1>
 
   {{ content }}
 
   <ul class="post-list">
     {% for post in site.posts %}
         <li style="margin-top: 36px;">
-          <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-          <article class="post">
-            <a href="/blog{{ post.url }}"><h2 class="post-title">{{ post.title | escape }}</h2> </a>
-
-            {% if post.image %}
-            <div style="background-image: url('{{post.image}}');" class="post-image">
-            </div>
-            {% endif %}
-
-           <!--  <div class="post-content" itemprop="articleBody">
-              {{ post.content }}
-            </div> -->
-          </article>
-
+           <a href="/blog{{ post.url }}"><span class="">{{ post.title | escape }}</span></a> • <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
         </li>
     {% endfor %}
   </ul>
