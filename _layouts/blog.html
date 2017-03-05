@@ -13,16 +13,16 @@ layout: default
         <li style="margin-top: 36px;">
           <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
           <article class="post">
-            <h2 class="post-title">{{ post.title | escape }}</h2>
+            <a href="{{ post.url }}"><h2 class="post-title">{{ post.title | escape }}</h2> </a>
 
             {% if post.image %}
             <div style="background-image: url('{{post.image}}');" class="post-image">
             </div>
             {% endif %}
 
-            <div class="post-content" itemprop="articleBody">
+           <!--  <div class="post-content" itemprop="articleBody">
               {{ post.content }}
-            </div>
+            </div> -->
           </article>
 
         </li>
