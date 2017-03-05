@@ -17,10 +17,11 @@ title: Stephanie Chou
 description: > #
   My Blog
 author: Stephanie Chou
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/blog" # the subpath of your site, e.g. /blog
 url: "http://stephaniechou.com" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  Stephanie-Chou
 
+future: true
 # Build settings
 markdown: kramdown
 # theme:
