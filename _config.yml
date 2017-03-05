@@ -16,7 +16,7 @@
 title: Stephanie Chou
 
 description: > #
-My Blog
+  My Blog
 baseurl: "/blog" # the subpath of your site, e.g. /blog
 url: "http://stephaniechou.com" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  Stephanie-Chou
