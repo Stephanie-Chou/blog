@@ -2,17 +2,24 @@
 # Only the main Sass file needs front matter (the dashes are enough)
 ---
 
+html {
+  height: 100%;
+}
+
 body {
   font-family: 'Open Sans', sans-serif;
   top: 0px;
-  overflow-x: hidden;
-  display: relative;
+  display: flex;
+  min-height: 100%;
+  flex-direction: column;
+}
+
+.content {
+  flex: 1;
 }
 
 main.page-content {
-  position: absolute;
   top: 50px;
-  left: 0px;
   width: 100%;
   display: flex;
   justify-content: center;
@@ -258,4 +265,49 @@ main.page-content .wrapper {
   /*transform: translate(-5px, 30px);*/
   top: 35px;
   left: -5px;
+}
+
+/*FOOTER icons*/
+
+footer {
+  background-color: #4155b4;
+  display: flex;
+  justify-content: center;
+  padding: 10px;
+  overflow: hidden;
+}
+
+.icon {
+  margin: 0px 14px;
+  height: 2.5em;
+}
+
+.email {
+  height: 2.25em;
+}
+
+.icon:hover {
+  -webkit-animation-name: fadeTo;
+  animation-name: fadeTo;
+  -webkit-animation-duration: 1s;
+  animation-duration: 1s;
+  -webkit-animation-fill-mode: forwards;
+  animation-fill-mode: forwards;
+  -webkit-transition: all 1s ease;
+  transition: all 1s ease;
+}
+
+@media all and (max-width:768px){
+  .icon {
+    height: 4em;
+  }
+
+  .icon.email {
+    height: 3.7em;
+  }
+}
+
+@keyframes fadeTo {
+  from {opacity: 1}
+  to {opacity: .5}
 }
