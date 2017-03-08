@@ -211,13 +211,11 @@ main.page-content .wrapper {
 // LOGO
 
 .logo {
-  position: relative;
-  display: flex;
-  justify-content: center;
-  width: 100px;
   height: 100px;
+  width: 100px;
   cursor: pointer;
-
+  margin-bottom: -20px;
+  position: relative;
 }
 
 .logo:hover {
