@@ -1,11 +1,10 @@
 ---
 layout: post
-title: "How to SEO"
-date: 2017-03-17
+title: "Using Functional Stateless React Components"
+date: 2019-02-20
 ---
 
-# Using Functional Stateless React Components
-## Our Existing Pattern
+# Our Existing Pattern
 
 The main issue I want to tackle is that we have components that are handling a lot of different pieces of logic and rendering. Some of these components are getting too big and doing too much in one place. I am proposing two things
 
